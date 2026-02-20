@@ -1,0 +1,14 @@
+V87 1 V104 1 V97 1 V116 1 V32 1 // "What "
+V105 1 V115 1 V32 1            // "is "
+V121 1 V111 1 V117 1 V114 1    // "your "
+V110 1 V97 1 V109 1 V101 1     // "name"
+V63 1 V32 1                    // "? "
+
+LK                             // Waiting for keyboard input
+WF user.txt 0                  // writing to user.txt
+CLS
+
+V72 1 V105 1 V33 1 V10 1       // "Hi! \n"
+RF user.txt                    // Reading user.txt to console
+P
+0

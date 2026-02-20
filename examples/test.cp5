@@ -1,0 +1,10 @@
+V49      // Wroting ascii 1 to 0 addres
+: LOOP
+1        // Writing symbol
+4        // Increment
+JP 1     // Jumping to 1
+V54      // Writing symbol '6' to 1 addres
+IF 0 BL 1 : G LOOP // if 0add < 1add go to loop
+CLS
+V68 1 V79 1 V78 1 V69 1 // "DONE"
+0
