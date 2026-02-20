@@ -1,0 +1,7 @@
+C:\Users\coing\source\repos\chipemu\chipemu\bin\Debug\chipemu.exe.config
+C:\Users\coing\source\repos\chipemu\chipemu\bin\Debug\chipemu.exe
+C:\Users\coing\source\repos\chipemu\chipemu\bin\Debug\chipemu.pdb
+C:\Users\coing\source\repos\chipemu\chipemu\obj\Debug\chipemu.csproj.AssemblyReference.cache
+C:\Users\coing\source\repos\chipemu\chipemu\obj\Debug\chipemu.csproj.CoreCompileInputs.cache
+C:\Users\coing\source\repos\chipemu\chipemu\obj\Debug\chipemu.exe
+C:\Users\coing\source\repos\chipemu\chipemu\obj\Debug\chipemu.pdb
